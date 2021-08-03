@@ -11,6 +11,9 @@ export default createGlobalStyle`
   button, input {
     background: 0;
     border: 0;
+  }
+  
+  button {
     cursor: pointer;
   }
 `
